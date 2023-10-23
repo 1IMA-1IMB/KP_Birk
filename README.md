@@ -1,2 +1,2 @@
 # KP_Birk
-skole oppgave for Birk i KP
+skoleoppgaver for Birk i KP
